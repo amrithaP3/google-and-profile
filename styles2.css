@@ -1,0 +1,62 @@
+body {
+  background-color: #e0ffff
+}/* YOUR STYLES HERE */
+
+#about-me{
+  align: center;
+  width: 100%;
+  height: afuto;
+  border-radius: 16px;
+}
+
+.home-button{
+  margin-left: 15px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px #9370db;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: palatino, serif;
+  color: #483d8b;
+  background-color: #98fb98;
+  border-color: #9370db;
+}
+
+.hook{
+  font-family: palatino, serif;
+  margin-bottom: auto;
+  text-align: center;
+  font-weight: bold;
+  color: #483d8b;
+  text-shadow: 2px 2px #98fb98;
+  font-style: italic;
+}
+
+.intro{
+  font-family: palatino, serif;
+  margin-bottom: auto;
+  text-align: left;
+  text-align: justify;
+  width: 45%;
+  margin-left: 30px;
+  font-size: 28px;
+}
+
+.float-img{
+  float:left;
+  margin-left: 690px;
+  margin-top: -278px;
+  width: 670px;
+  height: 450px;
+  margin-bottom: 50px;
+  border-radius: 16px;
+}
+
+.work-img{
+  float: inline-end;
+  width: 400px;
+  margin-top: -300px;
+  margin-left: 143px;
+
+
+}
