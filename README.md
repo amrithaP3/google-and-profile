@@ -1,1 +1,1 @@
-This is a short, fun personality quiz I created as part of an assignment in Georgia Tech's Intro to Computing course, CS 1301, in the Fall 2022 academic semester. Files most pertinent to the form itself include form.html, new.html, index.js, and index.css.
+This is a short, fun personality quiz I created as part of an assignment in Georgia Tech's Intro to Computing course, CS 1301, in the Fall 2022 academic semester. I later became a teaching assistant for this course. Files most pertinent to the form itself include index.html, new.html, styles.css, and styles2.css.
